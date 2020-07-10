@@ -1,16 +1,6 @@
-=== MASS Users Password Reset Pro ===
-Plugin Name: MASS Users Password Reset Pro
-Plugin URI: https://codecanyon.net/item/mass-users-password-reset-pro/20809350
-Author: krishaweb
-Author URI: http://krishaweb.com/
-Contributors: krishaweb, manishamakhija
-Tags: bulk reset password, mass reset password, reset password for users, role, users, reset password,admin
-Requires at least: 4.4
-Tested up to: 5.0
-Stable tag: trunk
-Copyright: (c) 2012-2019 KrishaWeb Technologies PVT LTD (info@krishaweb.com)
-License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+# === MASS Users Password Reset Pro ===
+
+
 
 MASS Users Password Reset lets you easily reset the password of all users. 
 
